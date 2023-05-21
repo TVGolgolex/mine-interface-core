@@ -1,4 +1,4 @@
-package de.pascxl.minecraft.minecore.player.nick;/*
+package de.pascxl.minecraft.minecore.player.nickplayer;/*
  * MIT License
  *
  * Copyright (c) Mario Pascal Kurz

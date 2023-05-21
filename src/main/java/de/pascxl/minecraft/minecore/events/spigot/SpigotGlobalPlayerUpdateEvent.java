@@ -2,7 +2,7 @@ package de.pascxl.minecraft.minecore.events.spigot;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import de.pascxl.minecraft.minecore.player.user.GlobalPlayer;
+import de.pascxl.minecraft.minecore.player.globalplayer.GlobalPlayer;
 import org.bukkit.entity.Player;
 
 /**

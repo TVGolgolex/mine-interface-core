@@ -1,12 +1,12 @@
 package de.pascxl.minecraft.minecore.player;
 
 import com.google.common.util.concurrent.ListenableFuture;
-import de.pascxl.minecraft.minecore.player.nick.NickPlayer;
-import de.pascxl.minecraft.minecore.player.permissionuser.PermissionPlayerSerializer;
-import de.pascxl.minecraft.minecore.player.user.GlobalPlayer;
-import de.pascxl.minecraft.minecore.player.user.GlobalPlayerEventCaller;
-import de.pascxl.minecraft.minecore.player.user.GlobalPlayerExecutor;
-import de.pascxl.minecraft.minecore.player.permissionuser.PermissionPlayer;
+import de.pascxl.minecraft.minecore.player.nickplayer.NickPlayer;
+import de.pascxl.minecraft.minecore.player.permissionplayer.PermissionPlayerSerializer;
+import de.pascxl.minecraft.minecore.player.globalplayer.GlobalPlayer;
+import de.pascxl.minecraft.minecore.player.globalplayer.GlobalPlayerEventCaller;
+import de.pascxl.minecraft.minecore.player.globalplayer.GlobalPlayerExecutor;
+import de.pascxl.minecraft.minecore.player.permissionplayer.PermissionPlayer;
 
 import java.util.List;
 import java.util.UUID;

@@ -2,8 +2,8 @@ package de.pascxl.minecraft.minecore.nick;
 
 import com.google.common.util.concurrent.ListenableFuture;
 import de.pascxl.minecraft.minecore.nick.profile.PlayerProfile;
-import de.pascxl.minecraft.minecore.player.nick.NickInfo;
-import de.pascxl.minecraft.minecore.player.nick.NickPlayer;
+import de.pascxl.minecraft.minecore.player.nickplayer.NickInfo;
+import de.pascxl.minecraft.minecore.player.nickplayer.NickPlayer;
 import de.pascxl.minecraft.minecore.utilities.future.FutureHandler;
 import org.bukkit.entity.Player;
 

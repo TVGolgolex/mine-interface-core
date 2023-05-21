@@ -2,7 +2,7 @@ package de.pascxl.minecraft.minecore.events.bungeecord;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import de.pascxl.minecraft.minecore.player.user.GlobalPlayer;
+import de.pascxl.minecraft.minecore.player.globalplayer.GlobalPlayer;
 import net.md_5.bungee.api.connection.ProxiedPlayer;
 import net.md_5.bungee.api.plugin.Event;
 

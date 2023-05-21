@@ -1,4 +1,4 @@
-package de.pascxl.minecraft.minecore.player.permissionuser;
+package de.pascxl.minecraft.minecore.player.permissionplayer;
 
 import de.pascxl.minecraft.minecore.database.mongodb.DocumentSerializer;
 

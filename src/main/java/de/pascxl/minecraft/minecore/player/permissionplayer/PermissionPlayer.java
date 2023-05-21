@@ -1,4 +1,4 @@
-package de.pascxl.minecraft.minecore.player.permissionuser;
+package de.pascxl.minecraft.minecore.player.permissionplayer;
 
 import de.pascxl.minecraft.minecore.permission.group.PermissionGroup;
 import de.pascxl.minecraft.minecore.permission.group.permission.Permission;

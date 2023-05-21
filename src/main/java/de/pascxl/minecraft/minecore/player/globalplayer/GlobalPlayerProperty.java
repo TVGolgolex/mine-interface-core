@@ -1,4 +1,4 @@
-package de.pascxl.minecraft.minecore.player.user;
+package de.pascxl.minecraft.minecore.player.globalplayer;
 
 import com.google.common.reflect.TypeToken;
 import de.pascxl.minecraft.minecore.player.data.DiscordVerify;

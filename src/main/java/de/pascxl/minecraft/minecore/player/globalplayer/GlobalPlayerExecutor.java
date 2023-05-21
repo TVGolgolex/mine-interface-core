@@ -1,6 +1,4 @@
-package de.pascxl.minecraft.minecore.player.user;
-
-import net.kyori.adventure.text.Component;
+package de.pascxl.minecraft.minecore.player.globalplayer;
 
 import java.util.List;
 import java.util.UUID;

@@ -1,4 +1,4 @@
-package de.pascxl.minecraft.minecore.player.nick;
+package de.pascxl.minecraft.minecore.player.nickplayer;
 
 import de.pascxl.minecraft.minecore.player.data.SkinData;
 import de.pascxl.minecraft.minecore.permission.group.PermissionGroup;

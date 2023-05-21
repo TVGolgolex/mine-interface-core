@@ -1,9 +1,9 @@
-package de.pascxl.minecraft.minecore.player.user;
+package de.pascxl.minecraft.minecore.player.globalplayer;
 
 import de.pascxl.minecraft.minecore.brand.Brand;
 import de.pascxl.minecraft.minecore.language.Language;
 import de.pascxl.minecraft.minecore.permission.group.PermissionGroup;
-import de.pascxl.minecraft.minecore.player.permissionuser.PermissionPlayer;
+import de.pascxl.minecraft.minecore.player.permissionplayer.PermissionPlayer;
 import de.pascxl.minecraft.minecore.utilities.future.FutureHandler;
 import org.bson.Document;
 
