@@ -1,0 +1,7 @@
+name: MineCore-Spigot
+main: de.pascxl.minecraft.minecore.bootstrap.pluginimitation.SpigotPluginsImitation
+author: Pascal K.
+version: 1.0-SNAPSHOT
+api-version: 1.19
+loadbefore: [ MineCore-Base-Spigot ]
+description: This plugin is a simplification for the kuschelStubeNET &/ TheVanceNET server. This plugin creates database connections like Redis, MongoDB and SQL. It includes a lot of simplifications that makes programming more plugins easier.
